@@ -70,7 +70,7 @@ public class ActionsClass {
 		WebElement logout = driver.findElement(By.xpath("//a[text()='logout']"));
 		logout.click();
 		
-		
+		driver.close();
 
 	}
 
