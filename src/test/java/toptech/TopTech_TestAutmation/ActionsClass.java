@@ -71,6 +71,7 @@ public class ActionsClass {
 		logout.click();
 		
 		driver.close();
+		driver.quit();
 
 	}
 
