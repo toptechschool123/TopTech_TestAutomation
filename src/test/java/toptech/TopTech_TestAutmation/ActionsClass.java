@@ -73,11 +73,7 @@ public class ActionsClass {
 		driver.close();
 		driver.quit();
 		
-	// hiddddddddddddddddddddddddddddd
-		
-		// sssssssssssssssssssss
-		//dddddddddddddddddddddd
-		// xxxxxxxxxxxxxx
+
 		
 
 	}
